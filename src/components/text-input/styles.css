@@ -1,0 +1,12 @@
+.__text-input {
+    display: block;
+    border: 1px solid #bbb;
+    color: white;
+    outline: 0;
+    padding: 6px;
+    font-size: 1.1em;
+    min-width: 200px;
+    border-radius: 4px;
+    margin: 10px;
+    padding-left: 40px;
+}
